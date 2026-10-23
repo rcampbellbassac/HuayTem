@@ -1,0 +1,39 @@
+{
+ "name": "Huay Tem",
+ "slug": "HuayTem",
+ "version": "0.010",
+ "bases": {
+  "lao": "lao-looped",
+  "thai": "thai-looped",
+  "khmer": "khmer",
+  "latin": "latin"
+ },
+ "wght": 100,
+ "wdth": 75.2,
+ "scale": 0.9593,
+ "recipe": [
+  {
+   "op": "wobble",
+   "amp": 3,
+   "wave": 260
+  },
+  {
+   "op": "nib",
+   "shape": "ellipse",
+   "w": 96.8,
+   "min_hole": 1200,
+   "h": 48.4,
+   "angle": 30
+  }
+ ],
+ "fit": {
+  "sign_stem_over_height": 0.1788,
+  "sign_width_over_height": 0.6887,
+  "base_height": 562,
+  "base_stem": 25,
+  "nib_w": 96.8
+ },
+ "sidebearing": 40,
+ "baseline_snap": [],
+ "copyright": "Copyright 2026 Robert Martin Campbell. Lao key letters traced from a hand-painted sign photographed in Laos (2019); other letters derived from the Noto fonts for Lao, Thai, Khmer and Latin (Copyright 2022 The Noto Project Authors)."
+}

@@ -1,0 +1,8 @@
+{"name": "Huay Tem", "slug": "HuayTem", "ink": "a", "body": "ບ",
+ "sign_text": "ໂຮງຮຽນປະຖົມສົມບູນ ຫ້ວຍເຕັມ ບ້ານຫຼັກ 19",
+ "notes": "Flourished school-wall lettering: tall loops, long swept tails on ຖ ງ ຽ, crisp brush entry ticks.",
+ "labels": {"ໂ": [0], "ຮ": [3], "ງ": [2], "ຽ": [4], "ນ": [8], "ປ": [16], "ະ": [18, 19], "ຖ": [23], "ົ": [27], "ມ": [31],
+            "ສ": [34], "ບ": [39], "ູ": [40], "້": [9], "ຫ": [5], "ວ": [13], "ຍ": [17], "ເ": [22], "ຕ": [24], "ັ": [28],
+            "ລ": [29], "ກ": [33], "1": [37], "9": [38]},
+ "nib": {"shape": "ellipse", "aspect": 0.5, "angle": 30},
+ "effects": [{"op": "wobble", "amp": 3, "wave": 260}]}
